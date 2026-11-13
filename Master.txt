@@ -1,3 +1,4 @@
 first line of master branch
+second line of master branch in feature branch
 third line in master branch
 
